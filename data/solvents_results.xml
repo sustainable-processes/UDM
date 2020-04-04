@@ -1,0 +1,1519 @@
+<?xml version="1.0" standalone="no"?>
+<UDM DATABASE="SPRESI" SEQUENCE="1" TIMESTAMP="2020-03-26T23:08:55.287254">
+  <UDM_VERSION MAJOR="6" MINOR="0" REVISION="0" VERSIONTEXT="6.0.0"/>
+  <MOLECULES>
+    <MOLECULE ID="1">
+      <MW>74.0</MW>
+      <PROPERTY name="Density">0.807</PROPERTY>
+      <PROPERTY name="Molar_volume">92.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.395</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">22.02</PROPERTY>
+      <PROPERTY name="Dielectric_constant">16.56</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.41</PROPERTY>
+      <PROPERTY name="Melting_point">-115</PROPERTY>
+      <PROPERTY name="Boiling_point">100</PROPERTY>
+      <PROPERTY name="Viscosity">2.26</PROPERTY>
+      <PROPERTY name="lnP">0.98</PROPERTY>
+      <PROPERTY name="Vapour_pressure">20.86</PROPERTY>
+      <PROPERTY name="Henry's_constant">2408.21</PROPERTY>
+      <PROPERTY name="lngamma">0.15</PROPERTY>
+      <PROPERTY name="HBA">0.64</PROPERTY>
+      <PROPERTY name="neutral">10.88</PROPERTY>
+      <PROPERTY name="HBD">1.05</PROPERTY>
+      <PROPERTY name="s1">0.25</PROPERTY>
+      <PROPERTY name="s2">0.98</PROPERTY>
+      <PROPERTY name="s3">9.98</PROPERTY>
+      <PROPERTY name="s4">0.77</PROPERTY>
+      <PROPERTY name="s5">0.59</PROPERTY>
+      <PROPERTY name="conv">61</PROPERTY>
+      <PROPERTY name="d.e.">71</PROPERTY>
+      <MF>C4H10O</MF>
+      <NAME>2-butanol</NAME>
+      <CAS>78-92-2</CAS>
+    </MOLECULE>
+    <MOLECULE ID="2">
+      <MW>86.0</MW>
+      <PROPERTY name="Density">0.8079999999999999</PROPERTY>
+      <PROPERTY name="Molar_volume">107.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.39</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">25.27</PROPERTY>
+      <PROPERTY name="Dielectric_constant">15.45</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.7</PROPERTY>
+      <PROPERTY name="Melting_point">-78</PROPERTY>
+      <PROPERTY name="Boiling_point">101</PROPERTY>
+      <PROPERTY name="Viscosity">0.49</PROPERTY>
+      <PROPERTY name="lnP">0.9</PROPERTY>
+      <PROPERTY name="Vapour_pressure">52.48</PROPERTY>
+      <PROPERTY name="Henry's_constant">2227.41</PROPERTY>
+      <PROPERTY name="lngamma">-0.28</PROPERTY>
+      <PROPERTY name="HBA">0.01</PROPERTY>
+      <PROPERTY name="neutral">12.54</PROPERTY>
+      <PROPERTY name="HBD">1.53</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.19</PROPERTY>
+      <PROPERTY name="s3">9.97</PROPERTY>
+      <PROPERTY name="s4">1.56</PROPERTY>
+      <PROPERTY name="s5">0.36</PROPERTY>
+      <PROPERTY name="conv">66</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C5H10O</MF>
+      <NAME>2-pentanone</NAME>
+      <CAS>107-87-9</CAS>
+    </MOLECULE>
+    <MOLECULE ID="3">
+      <MW>100.0</MW>
+      <PROPERTY name="Density">0.8009999999999999</PROPERTY>
+      <PROPERTY name="Molar_volume">125.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.396</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">30.03</PROPERTY>
+      <PROPERTY name="Dielectric_constant">13.11</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.69</PROPERTY>
+      <PROPERTY name="Melting_point">-85</PROPERTY>
+      <PROPERTY name="Boiling_point">118</PROPERTY>
+      <PROPERTY name="Viscosity">0.55</PROPERTY>
+      <PROPERTY name="lnP">1.44</PROPERTY>
+      <PROPERTY name="Vapour_pressure">22.8</PROPERTY>
+      <PROPERTY name="Henry's_constant">2014.07</PROPERTY>
+      <PROPERTY name="lngamma">0.12</PROPERTY>
+      <PROPERTY name="HBA">0.01</PROPERTY>
+      <PROPERTY name="neutral">14.22</PROPERTY>
+      <PROPERTY name="HBD">1.45</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.14</PROPERTY>
+      <PROPERTY name="s3">11.74</PROPERTY>
+      <PROPERTY name="s4">1.48</PROPERTY>
+      <PROPERTY name="s5">0.33</PROPERTY>
+      <PROPERTY name="conv">71</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C6H12O</MF>
+      <NAME>4-methyl-2-pentanone</NAME>
+      <CAS>108-10-1</CAS>
+    </MOLECULE>
+    <MOLECULE ID="4">
+      <MW>58.0</MW>
+      <PROPERTY name="Density">0.79</PROPERTY>
+      <PROPERTY name="Molar_volume">74.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.359</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">16.17</PROPERTY>
+      <PROPERTY name="Dielectric_constant">21.4</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.69</PROPERTY>
+      <PROPERTY name="Melting_point">-97</PROPERTY>
+      <PROPERTY name="Boiling_point">57</PROPERTY>
+      <PROPERTY name="Viscosity">0.35</PROPERTY>
+      <PROPERTY name="lnP">-0.3</PROPERTY>
+      <PROPERTY name="Vapour_pressure">28.99</PROPERTY>
+      <PROPERTY name="Henry's_constant">3009.7</PROPERTY>
+      <PROPERTY name="lngamma">-0.62</PROPERTY>
+      <PROPERTY name="HBA">0.02</PROPERTY>
+      <PROPERTY name="neutral">8.58</PROPERTY>
+      <PROPERTY name="HBD">1.66</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.74</PROPERTY>
+      <PROPERTY name="s3">5.5</PROPERTY>
+      <PROPERTY name="s4">1.67</PROPERTY>
+      <PROPERTY name="s5">0.36</PROPERTY>
+      <PROPERTY name="conv">62</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C3H6O</MF>
+      <NAME>2-propanone</NAME>
+      <CAS>67-64-1</CAS>
+    </MOLECULE>
+    <MOLECULE ID="5">
+      <MW>98.0</MW>
+      <PROPERTY name="Density">0.948</PROPERTY>
+      <PROPERTY name="Molar_volume">104.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4480000000000002</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">27.71</PROPERTY>
+      <PROPERTY name="Dielectric_constant">18.2</PROPERTY>
+      <PROPERTY name="Dipole_moment">3.06</PROPERTY>
+      <PROPERTY name="Melting_point">-32</PROPERTY>
+      <PROPERTY name="Boiling_point">156</PROPERTY>
+      <PROPERTY name="Viscosity">0.9</PROPERTY>
+      <PROPERTY name="lnP">0.9</PROPERTY>
+      <PROPERTY name="Vapour_pressure">6.6</PROPERTY>
+      <PROPERTY name="Henry's_constant">2164.87</PROPERTY>
+      <PROPERTY name="lngamma">-0.23</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">12.17</PROPERTY>
+      <PROPERTY name="HBD">1.68</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">1.57</PROPERTY>
+      <PROPERTY name="s3">10.24</PROPERTY>
+      <PROPERTY name="s4">1.65</PROPERTY>
+      <PROPERTY name="s5">0.39</PROPERTY>
+      <PROPERTY name="conv">60</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C6H10O</MF>
+      <NAME>cyclohexanone</NAME>
+      <CAS>108-94-1</CAS>
+    </MOLECULE>
+    <MOLECULE ID="6">
+      <MW>72.0</MW>
+      <PROPERTY name="Density">0.805</PROPERTY>
+      <PROPERTY name="Molar_volume">90.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.379</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">20.69</PROPERTY>
+      <PROPERTY name="Dielectric_constant">18.51</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.76</PROPERTY>
+      <PROPERTY name="Melting_point">-86</PROPERTY>
+      <PROPERTY name="Boiling_point">80</PROPERTY>
+      <PROPERTY name="Viscosity">0.41</PROPERTY>
+      <PROPERTY name="lnP">0.37</PROPERTY>
+      <PROPERTY name="Vapour_pressure">156.69</PROPERTY>
+      <PROPERTY name="Henry's_constant">2538.41</PROPERTY>
+      <PROPERTY name="lngamma">-0.37</PROPERTY>
+      <PROPERTY name="HBA">0.01</PROPERTY>
+      <PROPERTY name="neutral">10.55</PROPERTY>
+      <PROPERTY name="HBD">1.53</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.38</PROPERTY>
+      <PROPERTY name="s3">7.77</PROPERTY>
+      <PROPERTY name="s4">1.58</PROPERTY>
+      <PROPERTY name="s5">0.35</PROPERTY>
+      <PROPERTY name="conv">67</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C4H8O</MF>
+      <NAME>2-butanone</NAME>
+      <CAS>78-93-3</CAS>
+    </MOLECULE>
+    <MOLECULE ID="7">
+      <MW>92.0</MW>
+      <PROPERTY name="Density">0.867</PROPERTY>
+      <PROPERTY name="Molar_volume">106.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4969999999999999</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">31.1</PROPERTY>
+      <PROPERTY name="Dielectric_constant">2.38</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.31</PROPERTY>
+      <PROPERTY name="Melting_point">-93</PROPERTY>
+      <PROPERTY name="Boiling_point">111</PROPERTY>
+      <PROPERTY name="Viscosity">0.71</PROPERTY>
+      <PROPERTY name="lnP">2.6</PROPERTY>
+      <PROPERTY name="Vapour_pressure">33.49</PROPERTY>
+      <PROPERTY name="Henry's_constant">2305.64</PROPERTY>
+      <PROPERTY name="lngamma">1.07</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">14.09</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.34</PROPERTY>
+      <PROPERTY name="s3">10.02</PROPERTY>
+      <PROPERTY name="s4">1.73</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">88</PROPERTY>
+      <PROPERTY name="d.e.">57</PROPERTY>
+      <MF>C7H8</MF>
+      <NAME>toluene</NAME>
+      <CAS>108-88-3</CAS>
+    </MOLECULE>
+    <MOLECULE ID="8">
+      <MW>41.0</MW>
+      <PROPERTY name="Density">0.782</PROPERTY>
+      <PROPERTY name="Molar_volume">53.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.344</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">11.12</PROPERTY>
+      <PROPERTY name="Dielectric_constant">37.5</PROPERTY>
+      <PROPERTY name="Dipole_moment">3.44</PROPERTY>
+      <PROPERTY name="Melting_point">-45</PROPERTY>
+      <PROPERTY name="Boiling_point">82</PROPERTY>
+      <PROPERTY name="Viscosity">0.41</PROPERTY>
+      <PROPERTY name="lnP">-1.05</PROPERTY>
+      <PROPERTY name="Vapour_pressure">65.82</PROPERTY>
+      <PROPERTY name="Henry's_constant">6321.2</PROPERTY>
+      <PROPERTY name="lngamma">1.22</PROPERTY>
+      <PROPERTY name="HBA">0.82</PROPERTY>
+      <PROPERTY name="neutral">6.1</PROPERTY>
+      <PROPERTY name="HBD">1.37</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.79</PROPERTY>
+      <PROPERTY name="s3">3.09</PROPERTY>
+      <PROPERTY name="s4">2.29</PROPERTY>
+      <PROPERTY name="s5">0.12</PROPERTY>
+      <PROPERTY name="conv">39</PROPERTY>
+      <PROPERTY name="d.e.">52</PROPERTY>
+      <MF>C2H3N</MF>
+      <NAME>acetonitrile</NAME>
+      <CAS>75-05-8</CAS>
+    </MOLECULE>
+    <MOLECULE ID="9">
+      <MW>118.0</MW>
+      <PROPERTY name="Density">0.975</PROPERTY>
+      <PROPERTY name="Molar_volume">121.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.3840000000000001</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">28.33</PROPERTY>
+      <PROPERTY name="Dielectric_constant">3.1</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.07</PROPERTY>
+      <PROPERTY name="Melting_point">-43</PROPERTY>
+      <PROPERTY name="Boiling_point">127</PROPERTY>
+      <PROPERTY name="Viscosity">0.82</PROPERTY>
+      <PROPERTY name="lnP">1.32</PROPERTY>
+      <PROPERTY name="Vapour_pressure">12.32</PROPERTY>
+      <PROPERTY name="Henry's_constant">2197.41</PROPERTY>
+      <PROPERTY name="lngamma">0.02</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">14.35</PROPERTY>
+      <PROPERTY name="HBD">2.11</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">3.37</PROPERTY>
+      <PROPERTY name="s3">9.91</PROPERTY>
+      <PROPERTY name="s4">3.1</PROPERTY>
+      <PROPERTY name="s5">0.08</PROPERTY>
+      <PROPERTY name="conv">64</PROPERTY>
+      <PROPERTY name="d.e.">61</PROPERTY>
+      <MF>C5H10O3</MF>
+      <NAME>diethyl carbonate</NAME>
+      <CAS>105-58-8</CAS>
+    </MOLECULE>
+    <MOLECULE ID="10">
+      <MW>78.0</MW>
+      <PROPERTY name="Density">1.1</PROPERTY>
+      <PROPERTY name="Molar_volume">71.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.479</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">20.15</PROPERTY>
+      <PROPERTY name="Dielectric_constant">46.68</PROPERTY>
+      <PROPERTY name="Dipole_moment">4.1</PROPERTY>
+      <PROPERTY name="Melting_point">19</PROPERTY>
+      <PROPERTY name="Boiling_point">189</PROPERTY>
+      <PROPERTY name="Viscosity">1.14</PROPERTY>
+      <PROPERTY name="lnP">-1.93</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.83</PROPERTY>
+      <PROPERTY name="Henry's_constant">3396.62</PROPERTY>
+      <PROPERTY name="lngamma">-0.7</PROPERTY>
+      <PROPERTY name="HBA">0.58</PROPERTY>
+      <PROPERTY name="neutral">8.57</PROPERTY>
+      <PROPERTY name="HBD">2.04</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">4.05</PROPERTY>
+      <PROPERTY name="s3">4.93</PROPERTY>
+      <PROPERTY name="s4">0.73</PROPERTY>
+      <PROPERTY name="s5">1.48</PROPERTY>
+      <PROPERTY name="conv">35</PROPERTY>
+      <PROPERTY name="d.e.">72</PROPERTY>
+      <MF>C2H6OS</MF>
+      <NAME>dimethyl sulfoxide</NAME>
+      <CAS>67-68-5</CAS>
+    </MOLECULE>
+    <MOLECULE ID="11">
+      <MW>72.0</MW>
+      <PROPERTY name="Density">0.888</PROPERTY>
+      <PROPERTY name="Molar_volume">81.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4069999999999998</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">20.0</PROPERTY>
+      <PROPERTY name="Dielectric_constant">7.58</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.75</PROPERTY>
+      <PROPERTY name="Melting_point">-108</PROPERTY>
+      <PROPERTY name="Boiling_point">66</PROPERTY>
+      <PROPERTY name="Viscosity">0.47</PROPERTY>
+      <PROPERTY name="lnP">0.7</PROPERTY>
+      <PROPERTY name="Vapour_pressure">205.7</PROPERTY>
+      <PROPERTY name="Henry's_constant">2305.04</PROPERTY>
+      <PROPERTY name="lngamma">-0.44</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">10.12</PROPERTY>
+      <PROPERTY name="HBD">1.09</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.81</PROPERTY>
+      <PROPERTY name="s3">9.04</PROPERTY>
+      <PROPERTY name="s4">0.77</PROPERTY>
+      <PROPERTY name="s5">0.59</PROPERTY>
+      <PROPERTY name="conv">62</PROPERTY>
+      <PROPERTY name="d.e.">53</PROPERTY>
+      <MF>C4H8O</MF>
+      <NAME>tetrahydrofuran</NAME>
+      <CAS>109-99-9</CAS>
+    </MOLECULE>
+    <MOLECULE ID="12">
+      <MW>99.0</MW>
+      <PROPERTY name="Density">1.03</PROPERTY>
+      <PROPERTY name="Molar_volume">96.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.47</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">26.84</PROPERTY>
+      <PROPERTY name="Dielectric_constant">32.2</PROPERTY>
+      <PROPERTY name="Dipole_moment">4.09</PROPERTY>
+      <PROPERTY name="Melting_point">-24</PROPERTY>
+      <PROPERTY name="Boiling_point">202</PROPERTY>
+      <PROPERTY name="Viscosity">1.12</PROPERTY>
+      <PROPERTY name="lnP">-0.46</PROPERTY>
+      <PROPERTY name="Vapour_pressure">1.41</PROPERTY>
+      <PROPERTY name="Henry's_constant">2382.49</PROPERTY>
+      <PROPERTY name="lngamma">-0.94</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">12.01</PROPERTY>
+      <PROPERTY name="HBD">1.93</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.44</PROPERTY>
+      <PROPERTY name="s3">9.39</PROPERTY>
+      <PROPERTY name="s4">0.9</PROPERTY>
+      <PROPERTY name="s5">1.2</PROPERTY>
+      <PROPERTY name="conv">42</PROPERTY>
+      <PROPERTY name="d.e.">50</PROPERTY>
+      <MF>C5H9NO</MF>
+      <NAME>N-methylpyrrolidon</NAME>
+      <CAS>872-50-4</CAS>
+    </MOLECULE>
+    <MOLECULE ID="13">
+      <MW>74.0</MW>
+      <PROPERTY name="Density">0.713</PROPERTY>
+      <PROPERTY name="Molar_volume">104.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.3519999999999999</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">22.5</PROPERTY>
+      <PROPERTY name="Dielectric_constant">4.33</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.15</PROPERTY>
+      <PROPERTY name="Melting_point">-117</PROPERTY>
+      <PROPERTY name="Boiling_point">35</PROPERTY>
+      <PROPERTY name="Viscosity">0.26</PROPERTY>
+      <PROPERTY name="lnP">1.6</PROPERTY>
+      <PROPERTY name="Vapour_pressure">515.54</PROPERTY>
+      <PROPERTY name="Henry's_constant">2114.17</PROPERTY>
+      <PROPERTY name="lngamma">0.39</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">12.08</PROPERTY>
+      <PROPERTY name="HBD">0.96</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.55</PROPERTY>
+      <PROPERTY name="s3">11.27</PROPERTY>
+      <PROPERTY name="s4">0.85</PROPERTY>
+      <PROPERTY name="s5">0.38</PROPERTY>
+      <PROPERTY name="conv">82</PROPERTY>
+      <PROPERTY name="d.e.">58</PROPERTY>
+      <MF>C4H10O</MF>
+      <NAME>diethyl ether</NAME>
+      <CAS>60-29-7</CAS>
+    </MOLECULE>
+    <MOLECULE ID="14">
+      <MW>73.0</MW>
+      <PROPERTY name="Density">0.9490000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">77.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.431</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">19.92</PROPERTY>
+      <PROPERTY name="Dielectric_constant">36.71</PROPERTY>
+      <PROPERTY name="Dipole_moment">3.86</PROPERTY>
+      <PROPERTY name="Melting_point">-60</PROPERTY>
+      <PROPERTY name="Boiling_point">153</PROPERTY>
+      <PROPERTY name="Viscosity">0.53</PROPERTY>
+      <PROPERTY name="lnP">-0.95</PROPERTY>
+      <PROPERTY name="Vapour_pressure">25.54</PROPERTY>
+      <PROPERTY name="Henry's_constant">2951.59</PROPERTY>
+      <PROPERTY name="lngamma">-0.89</PROPERTY>
+      <PROPERTY name="HBA">0.04</PROPERTY>
+      <PROPERTY name="neutral">9.71</PROPERTY>
+      <PROPERTY name="HBD">1.86</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.99</PROPERTY>
+      <PROPERTY name="s3">6.53</PROPERTY>
+      <PROPERTY name="s4">1.07</PROPERTY>
+      <PROPERTY name="s5">1.02</PROPERTY>
+      <PROPERTY name="conv">63</PROPERTY>
+      <PROPERTY name="d.e.">69</PROPERTY>
+      <MF>C3H7NO</MF>
+      <NAME>N,N-dimethylformamide</NAME>
+      <CAS>68-12-2</CAS>
+    </MOLECULE>
+    <MOLECULE ID="15">
+      <MW>101.0</MW>
+      <PROPERTY name="Density">0.728</PROPERTY>
+      <PROPERTY name="Molar_volume">139.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.401</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">33.79</PROPERTY>
+      <PROPERTY name="Dielectric_constant">2.42</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.87</PROPERTY>
+      <PROPERTY name="Melting_point">-115</PROPERTY>
+      <PROPERTY name="Boiling_point">90</PROPERTY>
+      <PROPERTY name="Viscosity">0.39</PROPERTY>
+      <PROPERTY name="lnP">3.34</PROPERTY>
+      <PROPERTY name="Vapour_pressure">116.08</PROPERTY>
+      <PROPERTY name="Henry's_constant">1756.64</PROPERTY>
+      <PROPERTY name="lngamma">0.87</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">15.97</PROPERTY>
+      <PROPERTY name="HBD">0.01</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.5</PROPERTY>
+      <PROPERTY name="s3">15.26</PROPERTY>
+      <PROPERTY name="s4">0.21</PROPERTY>
+      <PROPERTY name="s5">0.06</PROPERTY>
+      <PROPERTY name="conv">97</PROPERTY>
+      <PROPERTY name="d.e.">61</PROPERTY>
+      <MF>C6H15N</MF>
+      <NAME>triethylamine</NAME>
+      <CAS>121-44-8</CAS>
+    </MOLECULE>
+    <MOLECULE ID="16">
+      <MW>130.0</MW>
+      <PROPERTY name="Density">0.8759999999999999</PROPERTY>
+      <PROPERTY name="Molar_volume">149.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">36.03</PROPERTY>
+      <PROPERTY name="Dielectric_constant">5.6</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.84</PROPERTY>
+      <PROPERTY name="Melting_point">-78</PROPERTY>
+      <PROPERTY name="Boiling_point">142</PROPERTY>
+      <PROPERTY name="Viscosity">0.99</PROPERTY>
+      <PROPERTY name="lnP">2.29</PROPERTY>
+      <PROPERTY name="Vapour_pressure">3.25</PROPERTY>
+      <PROPERTY name="Henry's_constant">1835.91</PROPERTY>
+      <PROPERTY name="lngamma">0.35</PROPERTY>
+      <PROPERTY name="HBA">0.02</PROPERTY>
+      <PROPERTY name="neutral">16.9</PROPERTY>
+      <PROPERTY name="HBD">1.75</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.46</PROPERTY>
+      <PROPERTY name="s3">13.89</PROPERTY>
+      <PROPERTY name="s4">2.09</PROPERTY>
+      <PROPERTY name="s5">0.23</PROPERTY>
+      <PROPERTY name="conv">89</PROPERTY>
+      <PROPERTY name="d.e.">58</PROPERTY>
+      <MF>C7H14O2</MF>
+      <NAME>3-methylbutyl acetate</NAME>
+      <CAS>123-92-2</CAS>
+    </MOLECULE>
+    <MOLECULE ID="17">
+      <MW>134.0</MW>
+      <PROPERTY name="Density">0.937</PROPERTY>
+      <PROPERTY name="Molar_volume">143.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4080000000000001</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">35.33</PROPERTY>
+      <PROPERTY name="Dielectric_constant">7.3</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.92</PROPERTY>
+      <PROPERTY name="Melting_point">-64</PROPERTY>
+      <PROPERTY name="Boiling_point">162</PROPERTY>
+      <PROPERTY name="Viscosity">0.76</PROPERTY>
+      <PROPERTY name="lnP">0.76</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.71</PROPERTY>
+      <PROPERTY name="Henry's_constant">1948.83</PROPERTY>
+      <PROPERTY name="lngamma">-0.11</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">16.83</PROPERTY>
+      <PROPERTY name="HBD">2.76</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.84</PROPERTY>
+      <PROPERTY name="s3">13.48</PROPERTY>
+      <PROPERTY name="s4">2.01</PROPERTY>
+      <PROPERTY name="s5">1.26</PROPERTY>
+      <PROPERTY name="conv">69</PROPERTY>
+      <PROPERTY name="d.e.">65</PROPERTY>
+      <MF>C6H14O3</MF>
+      <NAME>bis(2-methoxyethyl) ether</NAME>
+      <CAS>111-96-6</CAS>
+    </MOLECULE>
+    <MOLECULE ID="18">
+      <MW>102.0</MW>
+      <PROPERTY name="Density">1.2009999999999998</PROPERTY>
+      <PROPERTY name="Molar_volume">85.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.421</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">21.56</PROPERTY>
+      <PROPERTY name="Dielectric_constant">64.9</PROPERTY>
+      <PROPERTY name="Dipole_moment">4.94</PROPERTY>
+      <PROPERTY name="Melting_point">-55</PROPERTY>
+      <PROPERTY name="Boiling_point">242</PROPERTY>
+      <PROPERTY name="Viscosity">1.8</PROPERTY>
+      <PROPERTY name="lnP">-0.38</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.06</PROPERTY>
+      <PROPERTY name="Henry's_constant">3623.31</PROPERTY>
+      <PROPERTY name="lngamma">0.5</PROPERTY>
+      <PROPERTY name="HBA">0.59</PROPERTY>
+      <PROPERTY name="neutral">10.14</PROPERTY>
+      <PROPERTY name="HBD">2.1</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">4.62</PROPERTY>
+      <PROPERTY name="s3">4.65</PROPERTY>
+      <PROPERTY name="s4">3.45</PROPERTY>
+      <PROPERTY name="s5">0.1</PROPERTY>
+      <PROPERTY name="conv">24</PROPERTY>
+      <PROPERTY name="d.e.">54</PROPERTY>
+      <MF>C4H6O3</MF>
+      <NAME>4-methyl-2-oxo-1,3-dioxolane</NAME>
+      <CAS>108-32-7</CAS>
+    </MOLECULE>
+    <MOLECULE ID="19">
+      <MW>130.0</MW>
+      <PROPERTY name="Density">0.8270000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">158.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4269999999999998</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">40.43</PROPERTY>
+      <PROPERTY name="Dielectric_constant">10.3</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.68</PROPERTY>
+      <PROPERTY name="Melting_point">-16</PROPERTY>
+      <PROPERTY name="Boiling_point">194</PROPERTY>
+      <PROPERTY name="Viscosity">8.52</PROPERTY>
+      <PROPERTY name="lnP">3.11</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.17</PROPERTY>
+      <PROPERTY name="Henry's_constant">1730.04</PROPERTY>
+      <PROPERTY name="lngamma">0.56</PROPERTY>
+      <PROPERTY name="HBA">0.74</PROPERTY>
+      <PROPERTY name="neutral">18.89</PROPERTY>
+      <PROPERTY name="HBD">1.15</PROPERTY>
+      <PROPERTY name="s1">0.32</PROPERTY>
+      <PROPERTY name="s2">0.93</PROPERTY>
+      <PROPERTY name="s3">18.01</PROPERTY>
+      <PROPERTY name="s4">0.89</PROPERTY>
+      <PROPERTY name="s5">0.62</PROPERTY>
+      <PROPERTY name="conv">88</PROPERTY>
+      <PROPERTY name="d.e.">69</PROPERTY>
+      <MF>C8H18O</MF>
+      <NAME>octanol</NAME>
+      <CAS>111-87-5</CAS>
+    </MOLECULE>
+    <MOLECULE ID="20">
+      <MW>90.0</MW>
+      <PROPERTY name="Density">1.073</PROPERTY>
+      <PROPERTY name="Molar_volume">84.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.368</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">18.9</PROPERTY>
+      <PROPERTY name="Dielectric_constant">3.17</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.93</PROPERTY>
+      <PROPERTY name="Melting_point">3</PROPERTY>
+      <PROPERTY name="Boiling_point">90</PROPERTY>
+      <PROPERTY name="Viscosity">0.53</PROPERTY>
+      <PROPERTY name="lnP">0.26</PROPERTY>
+      <PROPERTY name="Vapour_pressure">86.7</PROPERTY>
+      <PROPERTY name="Henry's_constant">3002.72</PROPERTY>
+      <PROPERTY name="lngamma">-0.13</PROPERTY>
+      <PROPERTY name="HBA">0.08</PROPERTY>
+      <PROPERTY name="neutral">10.36</PROPERTY>
+      <PROPERTY name="HBD">1.98</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">3.77</PROPERTY>
+      <PROPERTY name="s3">5.52</PROPERTY>
+      <PROPERTY name="s4">3.07</PROPERTY>
+      <PROPERTY name="s5">0.06</PROPERTY>
+      <PROPERTY name="conv">58</PROPERTY>
+      <PROPERTY name="d.e.">58</PROPERTY>
+      <MF>C3H6O3</MF>
+      <NAME>dimethyl carbonate</NAME>
+      <CAS>616-38-6</CAS>
+    </MOLECULE>
+    <MOLECULE ID="21">
+      <MW>108.0</MW>
+      <PROPERTY name="Density">0.99</PROPERTY>
+      <PROPERTY name="Molar_volume">109.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.517</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">33.04</PROPERTY>
+      <PROPERTY name="Dielectric_constant">4.33</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.38</PROPERTY>
+      <PROPERTY name="Melting_point">-37</PROPERTY>
+      <PROPERTY name="Boiling_point">154</PROPERTY>
+      <PROPERTY name="Viscosity">1.16</PROPERTY>
+      <PROPERTY name="lnP">2.18</PROPERTY>
+      <PROPERTY name="Vapour_pressure">4.03</PROPERTY>
+      <PROPERTY name="Henry's_constant">2475.46</PROPERTY>
+      <PROPERTY name="lngamma">0.57</PROPERTY>
+      <PROPERTY name="HBA">0.05</PROPERTY>
+      <PROPERTY name="neutral">14.48</PROPERTY>
+      <PROPERTY name="HBD">0.52</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">3.7</PROPERTY>
+      <PROPERTY name="s3">8.93</PROPERTY>
+      <PROPERTY name="s4">2.4</PROPERTY>
+      <PROPERTY name="s5">0.01</PROPERTY>
+      <PROPERTY name="conv">83</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C7H8O</MF>
+      <NAME>methoxybenzene</NAME>
+      <CAS>100-66-3</CAS>
+    </MOLECULE>
+    <MOLECULE ID="22">
+      <MW>74.0</MW>
+      <PROPERTY name="Density">0.802</PROPERTY>
+      <PROPERTY name="Molar_volume">93.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.396</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">22.21</PROPERTY>
+      <PROPERTY name="Dielectric_constant">16.68</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.79</PROPERTY>
+      <PROPERTY name="Melting_point">-108</PROPERTY>
+      <PROPERTY name="Boiling_point">108</PROPERTY>
+      <PROPERTY name="Viscosity">2.56</PROPERTY>
+      <PROPERTY name="lnP">1.0</PROPERTY>
+      <PROPERTY name="Vapour_pressure">16.28</PROPERTY>
+      <PROPERTY name="Henry's_constant">2429.23</PROPERTY>
+      <PROPERTY name="lngamma">0.03</PROPERTY>
+      <PROPERTY name="HBA">0.71</PROPERTY>
+      <PROPERTY name="neutral">10.78</PROPERTY>
+      <PROPERTY name="HBD">1.07</PROPERTY>
+      <PROPERTY name="s1">0.32</PROPERTY>
+      <PROPERTY name="s2">0.88</PROPERTY>
+      <PROPERTY name="s3">10.01</PROPERTY>
+      <PROPERTY name="s4">0.77</PROPERTY>
+      <PROPERTY name="s5">0.56</PROPERTY>
+      <PROPERTY name="conv">41</PROPERTY>
+      <PROPERTY name="d.e.">67</PROPERTY>
+      <MF>C4H10O</MF>
+      <NAME>2-methyl-1-propanol</NAME>
+      <CAS>78-83-1</CAS>
+    </MOLECULE>
+    <MOLECULE ID="23">
+      <MW>103.0</MW>
+      <PROPERTY name="Density">1.0</PROPERTY>
+      <PROPERTY name="Molar_volume">103.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.528</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">31.75</PROPERTY>
+      <PROPERTY name="Dielectric_constant">26.0</PROPERTY>
+      <PROPERTY name="Dipole_moment">4.28</PROPERTY>
+      <PROPERTY name="Melting_point">-13</PROPERTY>
+      <PROPERTY name="Boiling_point">190</PROPERTY>
+      <PROPERTY name="Viscosity">1.45</PROPERTY>
+      <PROPERTY name="lnP">1.45</PROPERTY>
+      <PROPERTY name="Vapour_pressure">102.17</PROPERTY>
+      <PROPERTY name="Henry's_constant">3417.4</PROPERTY>
+      <PROPERTY name="lngamma">0.82</PROPERTY>
+      <PROPERTY name="HBA">0.54</PROPERTY>
+      <PROPERTY name="neutral">12.92</PROPERTY>
+      <PROPERTY name="HBD">1.12</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">3.65</PROPERTY>
+      <PROPERTY name="s3">8.69</PROPERTY>
+      <PROPERTY name="s4">2.2</PROPERTY>
+      <PROPERTY name="s5">0.04</PROPERTY>
+      <PROPERTY name="conv">32</PROPERTY>
+      <PROPERTY name="d.e.">55</PROPERTY>
+      <MF>C7H5N</MF>
+      <NAME>benzonitrile</NAME>
+      <CAS>100-47-0</CAS>
+    </MOLECULE>
+    <MOLECULE ID="24">
+      <MW>90.0</MW>
+      <PROPERTY name="Density">1.0170000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">89.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.446</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">23.63</PROPERTY>
+      <PROPERTY name="Dielectric_constant">32.9</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.58</PROPERTY>
+      <PROPERTY name="Melting_point">20</PROPERTY>
+      <PROPERTY name="Boiling_point">235</PROPERTY>
+      <PROPERTY name="Viscosity">19.37</PROPERTY>
+      <PROPERTY name="lnP">-0.32</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.03</PROPERTY>
+      <PROPERTY name="Henry's_constant">2275.41</PROPERTY>
+      <PROPERTY name="lngamma">0.7</PROPERTY>
+      <PROPERTY name="HBA">0.84</PROPERTY>
+      <PROPERTY name="neutral">10.4</PROPERTY>
+      <PROPERTY name="HBD">1.81</PROPERTY>
+      <PROPERTY name="s1">0.49</PROPERTY>
+      <PROPERTY name="s2">1.67</PROPERTY>
+      <PROPERTY name="s3">8.53</PROPERTY>
+      <PROPERTY name="s4">1.33</PROPERTY>
+      <PROPERTY name="s5">1.03</PROPERTY>
+      <PROPERTY name="conv">6</PROPERTY>
+      <PROPERTY name="d.e.">72</PROPERTY>
+      <MF>C4H10O2</MF>
+      <NAME>1,4-butanediol</NAME>
+      <CAS>110-63-4</CAS>
+    </MOLECULE>
+    <MOLECULE ID="25">
+      <MW>102.0</MW>
+      <PROPERTY name="Density">0.8140000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">126.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4180000000000001</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">31.63</PROPERTY>
+      <PROPERTY name="Dielectric_constant">13.3</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.65</PROPERTY>
+      <PROPERTY name="Melting_point">-47</PROPERTY>
+      <PROPERTY name="Boiling_point">158</PROPERTY>
+      <PROPERTY name="Viscosity">5.12</PROPERTY>
+      <PROPERTY name="lnP">2.03</PROPERTY>
+      <PROPERTY name="Vapour_pressure">1.22</PROPERTY>
+      <PROPERTY name="Henry's_constant">2001.85</PROPERTY>
+      <PROPERTY name="lngamma">0.35</PROPERTY>
+      <PROPERTY name="HBA">0.73</PROPERTY>
+      <PROPERTY name="neutral">14.91</PROPERTY>
+      <PROPERTY name="HBD">1.17</PROPERTY>
+      <PROPERTY name="s1">0.32</PROPERTY>
+      <PROPERTY name="s2">0.91</PROPERTY>
+      <PROPERTY name="s3">14.1</PROPERTY>
+      <PROPERTY name="s4">0.86</PROPERTY>
+      <PROPERTY name="s5">0.62</PROPERTY>
+      <PROPERTY name="conv">77</PROPERTY>
+      <PROPERTY name="d.e.">68</PROPERTY>
+      <MF>C6H14O</MF>
+      <NAME>hexanol</NAME>
+      <CAS>111-27-3</CAS>
+    </MOLECULE>
+    <MOLECULE ID="26">
+      <MW>116.0</MW>
+      <PROPERTY name="Density">0.875</PROPERTY>
+      <PROPERTY name="Molar_volume">132.8</PROPERTY>
+      <PROPERTY name="Refractive_index">1.39</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">31.47</PROPERTY>
+      <PROPERTY name="Dielectric_constant">5.6</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.87</PROPERTY>
+      <PROPERTY name="Melting_point">-99</PROPERTY>
+      <PROPERTY name="Boiling_point">118</PROPERTY>
+      <PROPERTY name="Viscosity">0.68</PROPERTY>
+      <PROPERTY name="lnP">1.85</PROPERTY>
+      <PROPERTY name="Vapour_pressure">6.7</PROPERTY>
+      <PROPERTY name="Henry's_constant">1954.98</PROPERTY>
+      <PROPERTY name="lngamma">0.08</PROPERTY>
+      <PROPERTY name="HBA">0.03</PROPERTY>
+      <PROPERTY name="neutral">15.18</PROPERTY>
+      <PROPERTY name="HBD">1.69</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.34</PROPERTY>
+      <PROPERTY name="s3">12.2</PROPERTY>
+      <PROPERTY name="s4">2.14</PROPERTY>
+      <PROPERTY name="s5">0.23</PROPERTY>
+      <PROPERTY name="conv">85</PROPERTY>
+      <PROPERTY name="d.e.">57</PROPERTY>
+      <MF>C6H12O2</MF>
+      <NAME>2-methylpropyl acetate</NAME>
+      <CAS>110-19-0</CAS>
+    </MOLECULE>
+    <MOLECULE ID="27">
+      <MW>170.0</MW>
+      <PROPERTY name="Density">0.7490000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">227.4</PROPERTY>
+      <PROPERTY name="Refractive_index">1.422</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">57.74</PROPERTY>
+      <PROPERTY name="Dielectric_constant">2.0</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.07</PROPERTY>
+      <PROPERTY name="Melting_point">-10</PROPERTY>
+      <PROPERTY name="Boiling_point">216</PROPERTY>
+      <PROPERTY name="Viscosity">1.53</PROPERTY>
+      <PROPERTY name="lnP">7.04</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.28</PROPERTY>
+      <PROPERTY name="Henry's_constant">1336.65</PROPERTY>
+      <PROPERTY name="lngamma">3.29</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">27.65</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.08</PROPERTY>
+      <PROPERTY name="s3">27.57</PROPERTY>
+      <PROPERTY name="s4">0.0</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">10</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C12H26</MF>
+      <NAME>dodecane</NAME>
+      <CAS>112-40-3</CAS>
+    </MOLECULE>
+    <MOLECULE ID="28">
+      <MW>114.0</MW>
+      <PROPERTY name="Density">0.703</PROPERTY>
+      <PROPERTY name="Molar_volume">162.5</PROPERTY>
+      <PROPERTY name="Refractive_index">1.395</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">38.96</PROPERTY>
+      <PROPERTY name="Dielectric_constant">1.96</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.0</PROPERTY>
+      <PROPERTY name="Melting_point">-57</PROPERTY>
+      <PROPERTY name="Boiling_point">126</PROPERTY>
+      <PROPERTY name="Viscosity">0.54</PROPERTY>
+      <PROPERTY name="lnP">4.93</PROPERTY>
+      <PROPERTY name="Vapour_pressure">15.86</PROPERTY>
+      <PROPERTY name="Henry's_constant">1577.73</PROPERTY>
+      <PROPERTY name="lngamma">3.26</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">19.69</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.07</PROPERTY>
+      <PROPERTY name="s3">19.62</PROPERTY>
+      <PROPERTY name="s4">0.0</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">14</PROPERTY>
+      <PROPERTY name="d.e.">50</PROPERTY>
+      <MF>C8H18</MF>
+      <NAME>octane</NAME>
+      <CAS>111-65-9</CAS>
+    </MOLECULE>
+    <MOLECULE ID="29">
+      <MW>100.0</MW>
+      <PROPERTY name="Density">0.6729999999999999</PROPERTY>
+      <PROPERTY name="Molar_volume">148.9</PROPERTY>
+      <PROPERTY name="Refractive_index">1.382</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">34.69</PROPERTY>
+      <PROPERTY name="Dielectric_constant">1.91</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.0</PROPERTY>
+      <PROPERTY name="Melting_point">-119</PROPERTY>
+      <PROPERTY name="Boiling_point">81</PROPERTY>
+      <PROPERTY name="Viscosity">0.36</PROPERTY>
+      <PROPERTY name="lnP">4.09</PROPERTY>
+      <PROPERTY name="Vapour_pressure">155.22</PROPERTY>
+      <PROPERTY name="Henry's_constant">1670.6</PROPERTY>
+      <PROPERTY name="lngamma">3.17</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">16.8</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.12</PROPERTY>
+      <PROPERTY name="s3">16.68</PROPERTY>
+      <PROPERTY name="s4">0.0</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">93</PROPERTY>
+      <PROPERTY name="d.e.">63</PROPERTY>
+      <MF>C7H16</MF>
+      <NAME>2,4-dimethylpentane</NAME>
+      <CAS>108-08-7</CAS>
+    </MOLECULE>
+    <MOLECULE ID="30">
+      <MW>76.0</MW>
+      <PROPERTY name="Density">0.965</PROPERTY>
+      <PROPERTY name="Molar_volume">78.9</PROPERTY>
+      <PROPERTY name="Refractive_index">1.402</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">19.21</PROPERTY>
+      <PROPERTY name="Dielectric_constant">16.93</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.04</PROPERTY>
+      <PROPERTY name="Melting_point">-85</PROPERTY>
+      <PROPERTY name="Boiling_point">125</PROPERTY>
+      <PROPERTY name="Viscosity">1.84</PROPERTY>
+      <PROPERTY name="lnP">-0.22</PROPERTY>
+      <PROPERTY name="Vapour_pressure">16.42</PROPERTY>
+      <PROPERTY name="Henry's_constant">2801.16</PROPERTY>
+      <PROPERTY name="lngamma">-0.12</PROPERTY>
+      <PROPERTY name="HBA">0.54</PROPERTY>
+      <PROPERTY name="neutral">9.66</PROPERTY>
+      <PROPERTY name="HBD">1.78</PROPERTY>
+      <PROPERTY name="s1">0.2</PROPERTY>
+      <PROPERTY name="s2">2.11</PROPERTY>
+      <PROPERTY name="s3">7.25</PROPERTY>
+      <PROPERTY name="s4">1.71</PROPERTY>
+      <PROPERTY name="s5">0.71</PROPERTY>
+      <PROPERTY name="conv">39</PROPERTY>
+      <PROPERTY name="d.e.">67</PROPERTY>
+      <MF>C3H8O2</MF>
+      <NAME>2-methoxyethanol</NAME>
+      <CAS>109-86-4</CAS>
+    </MOLECULE>
+    <MOLECULE ID="31">
+      <MW>106.0</MW>
+      <PROPERTY name="Density">0.88</PROPERTY>
+      <PROPERTY name="Molar_volume">120.6</PROPERTY>
+      <PROPERTY name="Refractive_index">1.505</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">35.8</PROPERTY>
+      <PROPERTY name="Dielectric_constant">2.57</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.45</PROPERTY>
+      <PROPERTY name="Melting_point">-25</PROPERTY>
+      <PROPERTY name="Boiling_point">144</PROPERTY>
+      <PROPERTY name="Viscosity">0.87</PROPERTY>
+      <PROPERTY name="lnP">3.01</PROPERTY>
+      <PROPERTY name="Vapour_pressure">12.27</PROPERTY>
+      <PROPERTY name="Henry's_constant">2101.99</PROPERTY>
+      <PROPERTY name="lngamma">1.23</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">15.72</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.12</PROPERTY>
+      <PROPERTY name="s3">11.74</PROPERTY>
+      <PROPERTY name="s4">1.87</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">81</PROPERTY>
+      <PROPERTY name="d.e.">55</PROPERTY>
+      <MF>C8H10</MF>
+      <NAME>1,2-dimethylbenzene</NAME>
+      <CAS>95-47-6</CAS>
+    </MOLECULE>
+    <MOLECULE ID="32">
+      <MW>146.0</MW>
+      <PROPERTY name="Density">1.079</PROPERTY>
+      <PROPERTY name="Molar_volume">135.4</PROPERTY>
+      <PROPERTY name="Refractive_index">1.41</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">33.56</PROPERTY>
+      <PROPERTY name="Dielectric_constant">8.1</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.54</PROPERTY>
+      <PROPERTY name="Melting_point">-40</PROPERTY>
+      <PROPERTY name="Boiling_point">183</PROPERTY>
+      <PROPERTY name="Viscosity">1.53</PROPERTY>
+      <PROPERTY name="lnP">1.3</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.44</PROPERTY>
+      <PROPERTY name="Henry's_constant">2253.69</PROPERTY>
+      <PROPERTY name="lngamma">0.02</PROPERTY>
+      <PROPERTY name="HBA">0.22</PROPERTY>
+      <PROPERTY name="neutral">16.0</PROPERTY>
+      <PROPERTY name="HBD">2.8</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">4.95</PROPERTY>
+      <PROPERTY name="s3">9.74</PROPERTY>
+      <PROPERTY name="s4">4.27</PROPERTY>
+      <PROPERTY name="s5">0.07</PROPERTY>
+      <PROPERTY name="conv">61</PROPERTY>
+      <PROPERTY name="d.e.">59</PROPERTY>
+      <MF>C6H10O4</MF>
+      <NAME>diethyl oxalate</NAME>
+      <CAS>95-92-1</CAS>
+    </MOLECULE>
+    <MOLECULE ID="33">
+      <MW>120.0</MW>
+      <PROPERTY name="Density">1.024</PROPERTY>
+      <PROPERTY name="Molar_volume">117.3</PROPERTY>
+      <PROPERTY name="Refractive_index">1.5330000000000001</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">36.39</PROPERTY>
+      <PROPERTY name="Dielectric_constant">17.4</PROPERTY>
+      <PROPERTY name="Dipole_moment">3.05</PROPERTY>
+      <PROPERTY name="Melting_point">20</PROPERTY>
+      <PROPERTY name="Boiling_point">202</PROPERTY>
+      <PROPERTY name="Viscosity">1.82</PROPERTY>
+      <PROPERTY name="lnP">1.34</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.47</PROPERTY>
+      <PROPERTY name="Henry's_constant">2574.02</PROPERTY>
+      <PROPERTY name="lngamma">0.26</PROPERTY>
+      <PROPERTY name="HBA">0.12</PROPERTY>
+      <PROPERTY name="neutral">14.58</PROPERTY>
+      <PROPERTY name="HBD">1.46</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">4.1</PROPERTY>
+      <PROPERTY name="s3">10.15</PROPERTY>
+      <PROPERTY name="s4">1.69</PROPERTY>
+      <PROPERTY name="s5">0.21</PROPERTY>
+      <PROPERTY name="conv">67</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C8H8O</MF>
+      <NAME>acetophenone</NAME>
+      <CAS>98-86-2</CAS>
+    </MOLECULE>
+    <MOLECULE ID="34">
+      <MW>107.0</MW>
+      <PROPERTY name="Density">0.882</PROPERTY>
+      <PROPERTY name="Molar_volume">120.9</PROPERTY>
+      <PROPERTY name="Refractive_index">1.412</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">30.07</PROPERTY>
+      <PROPERTY name="Dielectric_constant">6.6</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.16</PROPERTY>
+      <PROPERTY name="Melting_point">-99</PROPERTY>
+      <PROPERTY name="Boiling_point">105</PROPERTY>
+      <PROPERTY name="Viscosity">0.49</PROPERTY>
+      <PROPERTY name="lnP">3.06</PROPERTY>
+      <PROPERTY name="Vapour_pressure">41.8</PROPERTY>
+      <PROPERTY name="Henry's_constant">1565.23</PROPERTY>
+      <PROPERTY name="lngamma">1.4</PROPERTY>
+      <PROPERTY name="HBA">0.03</PROPERTY>
+      <PROPERTY name="neutral">15.73</PROPERTY>
+      <PROPERTY name="HBD">0.02</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">1.43</PROPERTY>
+      <PROPERTY name="s3">12.34</PROPERTY>
+      <PROPERTY name="s4">2.0</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">7</PROPERTY>
+      <PROPERTY name="d.e.">46</PROPERTY>
+      <MF>C5H11Cl</MF>
+      <NAME>1-chloropentane</NAME>
+      <CAS>543-59-9</CAS>
+    </MOLECULE>
+    <MOLECULE ID="35">
+      <MW>87.0</MW>
+      <PROPERTY name="Density">0.9420000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">92.5</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4380000000000002</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">24.31</PROPERTY>
+      <PROPERTY name="Dielectric_constant">37.78</PROPERTY>
+      <PROPERTY name="Dipole_moment">3.72</PROPERTY>
+      <PROPERTY name="Melting_point">-20</PROPERTY>
+      <PROPERTY name="Boiling_point">165</PROPERTY>
+      <PROPERTY name="Viscosity">0.63</PROPERTY>
+      <PROPERTY name="lnP">-0.5</PROPERTY>
+      <PROPERTY name="Vapour_pressure">10.11</PROPERTY>
+      <PROPERTY name="Henry's_constant">2548.2</PROPERTY>
+      <PROPERTY name="lngamma">-0.95</PROPERTY>
+      <PROPERTY name="HBA">0.02</PROPERTY>
+      <PROPERTY name="neutral">11.43</PROPERTY>
+      <PROPERTY name="HBD">1.84</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.85</PROPERTY>
+      <PROPERTY name="s3">8.47</PROPERTY>
+      <PROPERTY name="s4">0.78</PROPERTY>
+      <PROPERTY name="s5">1.19</PROPERTY>
+      <PROPERTY name="conv">44</PROPERTY>
+      <PROPERTY name="d.e.">67</PROPERTY>
+      <MF>C4H9NO</MF>
+      <NAME>N,N-dimethylacetamide</NAME>
+      <CAS>127-19-5</CAS>
+    </MOLECULE>
+    <MOLECULE ID="36">
+      <MW>60.0</MW>
+      <PROPERTY name="Density">0.785</PROPERTY>
+      <PROPERTY name="Molar_volume">76.5</PROPERTY>
+      <PROPERTY name="Refractive_index">1.3769999999999998</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">17.61</PROPERTY>
+      <PROPERTY name="Dielectric_constant">19.92</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.59</PROPERTY>
+      <PROPERTY name="Melting_point">-89</PROPERTY>
+      <PROPERTY name="Boiling_point">82</PROPERTY>
+      <PROPERTY name="Viscosity">2.4</PROPERTY>
+      <PROPERTY name="lnP">0.35</PROPERTY>
+      <PROPERTY name="Vapour_pressure">34.41</PROPERTY>
+      <PROPERTY name="Henry's_constant">2804.37</PROPERTY>
+      <PROPERTY name="lngamma">-0.46</PROPERTY>
+      <PROPERTY name="HBA">0.7</PROPERTY>
+      <PROPERTY name="neutral">8.91</PROPERTY>
+      <PROPERTY name="HBD">1.14</PROPERTY>
+      <PROPERTY name="s1">0.29</PROPERTY>
+      <PROPERTY name="s2">1.09</PROPERTY>
+      <PROPERTY name="s3">7.92</PROPERTY>
+      <PROPERTY name="s4">0.8</PROPERTY>
+      <PROPERTY name="s5">0.64</PROPERTY>
+      <PROPERTY name="conv">50</PROPERTY>
+      <PROPERTY name="d.e.">72</PROPERTY>
+      <MF>C3H8O</MF>
+      <NAME>2-propanol</NAME>
+      <CAS>67-63-0</CAS>
+    </MOLECULE>
+    <MOLECULE ID="37">
+      <MW>102.0</MW>
+      <PROPERTY name="Density">0.7240000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">141.1</PROPERTY>
+      <PROPERTY name="Refractive_index">1.368</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">31.8</PROPERTY>
+      <PROPERTY name="Dielectric_constant">4.04</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.13</PROPERTY>
+      <PROPERTY name="Melting_point">-86</PROPERTY>
+      <PROPERTY name="Boiling_point">68</PROPERTY>
+      <PROPERTY name="Viscosity">0.47</PROPERTY>
+      <PROPERTY name="lnP">2.51</PROPERTY>
+      <PROPERTY name="Vapour_pressure">28.72</PROPERTY>
+      <PROPERTY name="Henry's_constant">1792.09</PROPERTY>
+      <PROPERTY name="lngamma">0.83</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">15.58</PROPERTY>
+      <PROPERTY name="HBD">0.79</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.74</PROPERTY>
+      <PROPERTY name="s3">14.56</PROPERTY>
+      <PROPERTY name="s4">0.57</PROPERTY>
+      <PROPERTY name="s5">0.49</PROPERTY>
+      <PROPERTY name="conv">86</PROPERTY>
+      <PROPERTY name="d.e.">60</PROPERTY>
+      <MF>C6H14O</MF>
+      <NAME>diisopropyl ether</NAME>
+      <CAS>108-20-3</CAS>
+    </MOLECULE>
+    <MOLECULE ID="38">
+      <MW>148.0</MW>
+      <PROPERTY name="Density">0.893</PROPERTY>
+      <PROPERTY name="Molar_volume">166.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.39</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">39.34</PROPERTY>
+      <PROPERTY name="Dielectric_constant">4.779</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.67</PROPERTY>
+      <PROPERTY name="Melting_point">-61</PROPERTY>
+      <PROPERTY name="Boiling_point">143</PROPERTY>
+      <PROPERTY name="Viscosity">1.08</PROPERTY>
+      <PROPERTY name="lnP">1.79</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.56</PROPERTY>
+      <PROPERTY name="Henry's_constant">1758.45</PROPERTY>
+      <PROPERTY name="lngamma">0.22</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">18.63</PROPERTY>
+      <PROPERTY name="HBD">2.14</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.36</PROPERTY>
+      <PROPERTY name="s3">15.88</PROPERTY>
+      <PROPERTY name="s4">1.81</PROPERTY>
+      <PROPERTY name="s5">0.73</PROPERTY>
+      <PROPERTY name="conv">82</PROPERTY>
+      <PROPERTY name="d.e.">63</PROPERTY>
+      <MF>C7H16O3</MF>
+      <NAME>triethoxymethane</NAME>
+      <CAS>122-51-0</CAS>
+    </MOLECULE>
+    <MOLECULE ID="39">
+      <MW>158.0</MW>
+      <PROPERTY name="Density">0.878</PROPERTY>
+      <PROPERTY name="Molar_volume">180.2</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4169999999999998</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">45.32</PROPERTY>
+      <PROPERTY name="Dielectric_constant">4.13</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.67</PROPERTY>
+      <PROPERTY name="Melting_point">-40</PROPERTY>
+      <PROPERTY name="Boiling_point">192</PROPERTY>
+      <PROPERTY name="Viscosity">1.77</PROPERTY>
+      <PROPERTY name="lnP">3.59</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.37</PROPERTY>
+      <PROPERTY name="Henry's_constant">1608.72</PROPERTY>
+      <PROPERTY name="lngamma">0.74</PROPERTY>
+      <PROPERTY name="HBA">0.01</PROPERTY>
+      <PROPERTY name="neutral">21.44</PROPERTY>
+      <PROPERTY name="HBD">1.67</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.52</PROPERTY>
+      <PROPERTY name="s3">18.13</PROPERTY>
+      <PROPERTY name="s4">2.32</PROPERTY>
+      <PROPERTY name="s5">0.16</PROPERTY>
+      <PROPERTY name="conv">92</PROPERTY>
+      <PROPERTY name="d.e.">58</PROPERTY>
+      <MF>C9H18O2</MF>
+      <NAME>methyl octanoate</NAME>
+      <CAS>111-11-5</CAS>
+    </MOLECULE>
+    <MOLECULE ID="40">
+      <MW>120.0</MW>
+      <PROPERTY name="Density">0.8640000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">139.1</PROPERTY>
+      <PROPERTY name="Refractive_index">1.493</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">40.42</PROPERTY>
+      <PROPERTY name="Dielectric_constant">2.37</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.42</PROPERTY>
+      <PROPERTY name="Melting_point">-92</PROPERTY>
+      <PROPERTY name="Boiling_point">159</PROPERTY>
+      <PROPERTY name="Viscosity">1.16</PROPERTY>
+      <PROPERTY name="lnP">3.61</PROPERTY>
+      <PROPERTY name="Vapour_pressure">3.97</PROPERTY>
+      <PROPERTY name="Henry's_constant">1899.16</PROPERTY>
+      <PROPERTY name="lngamma">1.39</PROPERTY>
+      <PROPERTY name="HBA">0.01</PROPERTY>
+      <PROPERTY name="neutral">17.89</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.07</PROPERTY>
+      <PROPERTY name="s3">14.05</PROPERTY>
+      <PROPERTY name="s4">1.78</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">95</PROPERTY>
+      <PROPERTY name="d.e.">60</PROPERTY>
+      <MF>C9H12</MF>
+      <NAME>propylbenzene</NAME>
+      <CAS>103-65-1</CAS>
+    </MOLECULE>
+    <MOLECULE ID="41">
+      <MW>120.0</MW>
+      <PROPERTY name="Density">0.8640000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">139.2</PROPERTY>
+      <PROPERTY name="Refractive_index">1.499</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">40.86</PROPERTY>
+      <PROPERTY name="Dielectric_constant">2.4</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.1</PROPERTY>
+      <PROPERTY name="Melting_point">-45</PROPERTY>
+      <PROPERTY name="Boiling_point">165</PROPERTY>
+      <PROPERTY name="Viscosity">1.12</PROPERTY>
+      <PROPERTY name="lnP">3.66</PROPERTY>
+      <PROPERTY name="Vapour_pressure">3.87</PROPERTY>
+      <PROPERTY name="Henry's_constant">2260.0</PROPERTY>
+      <PROPERTY name="lngamma">1.5</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">17.86</PROPERTY>
+      <PROPERTY name="HBD">0.01</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">1.74</PROPERTY>
+      <PROPERTY name="s3">14.24</PROPERTY>
+      <PROPERTY name="s4">1.9</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">92</PROPERTY>
+      <PROPERTY name="d.e.">60</PROPERTY>
+      <MF>C9H12</MF>
+      <NAME>1,3,5-trimethylbenzene</NAME>
+      <CAS>108-67-8</CAS>
+    </MOLECULE>
+    <MOLECULE ID="42">
+      <MW>129.0</MW>
+      <PROPERTY name="Density">0.767</PROPERTY>
+      <PROPERTY name="Molar_volume">168.5</PROPERTY>
+      <PROPERTY name="Refractive_index">1.415</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">42.23</PROPERTY>
+      <PROPERTY name="Dielectric_constant">3.2</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.98</PROPERTY>
+      <PROPERTY name="Melting_point">-62</PROPERTY>
+      <PROPERTY name="Boiling_point">160</PROPERTY>
+      <PROPERTY name="Viscosity">0.6</PROPERTY>
+      <PROPERTY name="lnP">3.97</PROPERTY>
+      <PROPERTY name="Vapour_pressure">4.67</PROPERTY>
+      <PROPERTY name="Henry's_constant">1578.86</PROPERTY>
+      <PROPERTY name="lngamma">1.34</PROPERTY>
+      <PROPERTY name="HBA">0.23</PROPERTY>
+      <PROPERTY name="neutral">20.39</PROPERTY>
+      <PROPERTY name="HBD">0.66</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.8</PROPERTY>
+      <PROPERTY name="s3">19.66</PROPERTY>
+      <PROPERTY name="s4">0.36</PROPERTY>
+      <PROPERTY name="s5">0.48</PROPERTY>
+      <PROPERTY name="conv">90</PROPERTY>
+      <PROPERTY name="d.e.">68</PROPERTY>
+      <MF>C8H19N</MF>
+      <NAME>dibutylamine</NAME>
+      <CAS>111-92-2</CAS>
+    </MOLECULE>
+    <MOLECULE ID="43">
+      <MW>79.0</MW>
+      <PROPERTY name="Density">0.983</PROPERTY>
+      <PROPERTY name="Molar_volume">80.5</PROPERTY>
+      <PROPERTY name="Refractive_index">1.51</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">24.07</PROPERTY>
+      <PROPERTY name="Dielectric_constant">12.4</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.37</PROPERTY>
+      <PROPERTY name="Melting_point">-42</PROPERTY>
+      <PROPERTY name="Boiling_point">115</PROPERTY>
+      <PROPERTY name="Viscosity">0.83</PROPERTY>
+      <PROPERTY name="lnP">0.53</PROPERTY>
+      <PROPERTY name="Vapour_pressure">19.58</PROPERTY>
+      <PROPERTY name="Henry's_constant">3350.01</PROPERTY>
+      <PROPERTY name="lngamma">0.07</PROPERTY>
+      <PROPERTY name="HBA">0.13</PROPERTY>
+      <PROPERTY name="neutral">10.65</PROPERTY>
+      <PROPERTY name="HBD">0.93</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">3.28</PROPERTY>
+      <PROPERTY name="s3">7.17</PROPERTY>
+      <PROPERTY name="s4">0.78</PROPERTY>
+      <PROPERTY name="s5">0.48</PROPERTY>
+      <PROPERTY name="conv">59</PROPERTY>
+      <PROPERTY name="d.e.">60</PROPERTY>
+      <MF>C5H5N</MF>
+      <NAME>pyridine</NAME>
+      <CAS>110-86-1</CAS>
+    </MOLECULE>
+    <MOLECULE ID="44">
+      <MW>121.0</MW>
+      <PROPERTY name="Density">0.917</PROPERTY>
+      <PROPERTY name="Molar_volume">132.2</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4980000000000002</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">38.74</PROPERTY>
+      <PROPERTY name="Dielectric_constant">12.02</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.04</PROPERTY>
+      <PROPERTY name="Melting_point">43</PROPERTY>
+      <PROPERTY name="Boiling_point">171</PROPERTY>
+      <PROPERTY name="Viscosity">1.44</PROPERTY>
+      <PROPERTY name="lnP">2.32</PROPERTY>
+      <PROPERTY name="Vapour_pressure">1.03</PROPERTY>
+      <PROPERTY name="Henry's_constant">2062.78</PROPERTY>
+      <PROPERTY name="lngamma">0.25</PROPERTY>
+      <PROPERTY name="HBA">0.01</PROPERTY>
+      <PROPERTY name="neutral">16.72</PROPERTY>
+      <PROPERTY name="HBD">0.88</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.51</PROPERTY>
+      <PROPERTY name="s3">13.71</PROPERTY>
+      <PROPERTY name="s4">0.92</PROPERTY>
+      <PROPERTY name="s5">0.46</PROPERTY>
+      <PROPERTY name="conv">80</PROPERTY>
+      <PROPERTY name="d.e.">62</PROPERTY>
+      <MF>C8H11N</MF>
+      <NAME>2,4,6-Trimethylpyridine</NAME>
+      <CAS>108-75-8</CAS>
+    </MOLECULE>
+    <MOLECULE ID="45">
+      <MW>142.0</MW>
+      <PROPERTY name="Density">0.807</PROPERTY>
+      <PROPERTY name="Molar_volume">176.3</PROPERTY>
+      <PROPERTY name="Refractive_index">1.412</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">43.86</PROPERTY>
+      <PROPERTY name="Dielectric_constant">9.91</PROPERTY>
+      <PROPERTY name="Dipole_moment">2.66</PROPERTY>
+      <PROPERTY name="Melting_point">-42</PROPERTY>
+      <PROPERTY name="Boiling_point">168</PROPERTY>
+      <PROPERTY name="Viscosity">0.99</PROPERTY>
+      <PROPERTY name="lnP">3.15</PROPERTY>
+      <PROPERTY name="Vapour_pressure">2.57</PROPERTY>
+      <PROPERTY name="Henry's_constant">1603.78</PROPERTY>
+      <PROPERTY name="lngamma">0.85</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">19.86</PROPERTY>
+      <PROPERTY name="HBD">1.26</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">1.51</PROPERTY>
+      <PROPERTY name="s3">18.03</PROPERTY>
+      <PROPERTY name="s4">1.33</PROPERTY>
+      <PROPERTY name="s5">0.25</PROPERTY>
+      <PROPERTY name="conv">92</PROPERTY>
+      <PROPERTY name="d.e.">57</PROPERTY>
+      <MF>C9H18O</MF>
+      <NAME>2,6-dimethyl-4-heptanone</NAME>
+      <CAS>108-83-8</CAS>
+    </MOLECULE>
+    <MOLECULE ID="46">
+      <MW>154.0</MW>
+      <PROPERTY name="Density">0.9229999999999999</PROPERTY>
+      <PROPERTY name="Molar_volume">167.2</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4580000000000002</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">45.63</PROPERTY>
+      <PROPERTY name="Dielectric_constant">4.84</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.58</PROPERTY>
+      <PROPERTY name="Melting_point">2</PROPERTY>
+      <PROPERTY name="Boiling_point">176</PROPERTY>
+      <PROPERTY name="Viscosity">1.75</PROPERTY>
+      <PROPERTY name="lnP">3.02</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.54</PROPERTY>
+      <PROPERTY name="Henry's_constant">1888.9</PROPERTY>
+      <PROPERTY name="lngamma">1.05</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">18.3</PROPERTY>
+      <PROPERTY name="HBD">0.86</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.58</PROPERTY>
+      <PROPERTY name="s3">17.47</PROPERTY>
+      <PROPERTY name="s4">0.55</PROPERTY>
+      <PROPERTY name="s5">0.56</PROPERTY>
+      <PROPERTY name="conv">96</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C10H18O</MF>
+      <NAME>1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane</NAME>
+      <CAS>470-82-6</CAS>
+    </MOLECULE>
+    <MOLECULE ID="47">
+      <MW>100.0</MW>
+      <PROPERTY name="Density">0.6940000000000001</PROPERTY>
+      <PROPERTY name="Molar_volume">144.3</PROPERTY>
+      <PROPERTY name="Refractive_index">1.392</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">34.36</PROPERTY>
+      <PROPERTY name="Dielectric_constant">1.94</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.0</PROPERTY>
+      <PROPERTY name="Melting_point">-135</PROPERTY>
+      <PROPERTY name="Boiling_point">90</PROPERTY>
+      <PROPERTY name="Viscosity">0.34</PROPERTY>
+      <PROPERTY name="lnP">4.0</PROPERTY>
+      <PROPERTY name="Vapour_pressure">186.02</PROPERTY>
+      <PROPERTY name="Henry's_constant">1702.71</PROPERTY>
+      <PROPERTY name="lngamma">3.15</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">16.47</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.13</PROPERTY>
+      <PROPERTY name="s3">16.34</PROPERTY>
+      <PROPERTY name="s4">0.0</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">97</PROPERTY>
+      <PROPERTY name="d.e.">64</PROPERTY>
+      <MF>C7H16</MF>
+      <NAME>2,3-dimethylpentane</NAME>
+      <CAS>565-59-3</CAS>
+    </MOLECULE>
+    <MOLECULE ID="48">
+      <MW>185.0</MW>
+      <PROPERTY name="Density">0.778</PROPERTY>
+      <PROPERTY name="Molar_volume">238.2</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4280000000000002</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">61.29</PROPERTY>
+      <PROPERTY name="Dielectric_constant">2.29</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.76</PROPERTY>
+      <PROPERTY name="Melting_point">-70</PROPERTY>
+      <PROPERTY name="Boiling_point">216</PROPERTY>
+      <PROPERTY name="Viscosity">1.73</PROPERTY>
+      <PROPERTY name="lnP">6.58</PROPERTY>
+      <PROPERTY name="Vapour_pressure">0.13</PROPERTY>
+      <PROPERTY name="Henry's_constant">1328.7</PROPERTY>
+      <PROPERTY name="lngamma">1.89</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">27.98</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">0.33</PROPERTY>
+      <PROPERTY name="s3">27.37</PROPERTY>
+      <PROPERTY name="s4">0.28</PROPERTY>
+      <PROPERTY name="s5">0.14</PROPERTY>
+      <PROPERTY name="conv">98</PROPERTY>
+      <PROPERTY name="d.e.">66</PROPERTY>
+      <MF>C12H27N</MF>
+      <NAME>tributylamine</NAME>
+      <CAS>102-82-9</CAS>
+    </MOLECULE>
+    <MOLECULE ID="49">
+      <MW>120.0</MW>
+      <PROPERTY name="Density">0.857</PROPERTY>
+      <PROPERTY name="Molar_volume">140.3</PROPERTY>
+      <PROPERTY name="Refractive_index">1.4909999999999999</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">40.62</PROPERTY>
+      <PROPERTY name="Dielectric_constant">2.38</PROPERTY>
+      <PROPERTY name="Dipole_moment">0.65</PROPERTY>
+      <PROPERTY name="Melting_point">-96</PROPERTY>
+      <PROPERTY name="Boiling_point">151</PROPERTY>
+      <PROPERTY name="Viscosity">1.1</PROPERTY>
+      <PROPERTY name="lnP">1.1</PROPERTY>
+      <PROPERTY name="Vapour_pressure">9.86</PROPERTY>
+      <PROPERTY name="Henry's_constant">1920.88</PROPERTY>
+      <PROPERTY name="lngamma">1.39</PROPERTY>
+      <PROPERTY name="HBA">0.0</PROPERTY>
+      <PROPERTY name="neutral">17.54</PROPERTY>
+      <PROPERTY name="HBD">0.0</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">2.12</PROPERTY>
+      <PROPERTY name="s3">13.7</PROPERTY>
+      <PROPERTY name="s4">1.72</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">95</PROPERTY>
+      <PROPERTY name="d.e.">59</PROPERTY>
+      <MF>C9H12</MF>
+      <NAME>cumene</NAME>
+      <CAS>98-82-8</CAS>
+    </MOLECULE>
+    <MOLECULE ID="50">
+      <MW>121.18</MW>
+      <PROPERTY name="Density">0.956</PROPERTY>
+      <PROPERTY name="Molar_volume">126.8</PROPERTY>
+      <PROPERTY name="Refractive_index">1.558</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">40.87</PROPERTY>
+      <PROPERTY name="Dielectric_constant">4.4</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.61</PROPERTY>
+      <PROPERTY name="Melting_point">2</PROPERTY>
+      <PROPERTY name="Boiling_point">194</PROPERTY>
+      <PROPERTY name="Viscosity">1.36745034</PROPERTY>
+      <PROPERTY name="lnP">2.81303506</PROPERTY>
+      <PROPERTY name="Vapour_pressure">1.07869118</PROPERTY>
+      <PROPERTY name="Henry's_constant">2171.588398</PROPERTY>
+      <PROPERTY name="lngamma">0.86179252</PROPERTY>
+      <PROPERTY name="HBA">0.0166</PROPERTY>
+      <PROPERTY name="neutral">16.79855</PROPERTY>
+      <PROPERTY name="HBD">0.15175</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">3.06</PROPERTY>
+      <PROPERTY name="s3">10.84</PROPERTY>
+      <PROPERTY name="s4">3.06</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">84</PROPERTY>
+      <PROPERTY name="d.e.">56</PROPERTY>
+      <MF>C8H11N</MF>
+      <NAME>N,N-dimethylaniline</NAME>
+      <CAS>121-69-7</CAS>
+    </MOLECULE>
+    <MOLECULE ID="51">
+      <MW>122.17</MW>
+      <PROPERTY name="Density">0.985</PROPERTY>
+      <PROPERTY name="Molar_volume">124.0</PROPERTY>
+      <PROPERTY name="Refractive_index">1.505</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">36.79</PROPERTY>
+      <PROPERTY name="Dielectric_constant">3.57</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.0</PROPERTY>
+      <PROPERTY name="Melting_point">-34</PROPERTY>
+      <PROPERTY name="Boiling_point">171</PROPERTY>
+      <PROPERTY name="Viscosity">1.31320076</PROPERTY>
+      <PROPERTY name="lnP">2.87873146</PROPERTY>
+      <PROPERTY name="Vapour_pressure">1.75558178</PROPERTY>
+      <PROPERTY name="Henry's_constant">2414.4845149999996</PROPERTY>
+      <PROPERTY name="lngamma">0.84159999</PROPERTY>
+      <PROPERTY name="HBA">0.0268</PROPERTY>
+      <PROPERTY name="neutral">16.3488</PROPERTY>
+      <PROPERTY name="HBD">0.4505</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">3.27</PROPERTY>
+      <PROPERTY name="s3">11.05</PROPERTY>
+      <PROPERTY name="s4">2.51</PROPERTY>
+      <PROPERTY name="s5">0.0</PROPERTY>
+      <PROPERTY name="conv">87</PROPERTY>
+      <PROPERTY name="d.e.">58</PROPERTY>
+      <MF>C8H10O</MF>
+      <NAME>1-methoxy-2-methylbenzene</NAME>
+      <CAS>578-58-5</CAS>
+    </MOLECULE>
+    <MOLECULE ID="52">
+      <MW>122.17</MW>
+      <PROPERTY name="Density">0.97</PROPERTY>
+      <PROPERTY name="Molar_volume">125.9</PROPERTY>
+      <PROPERTY name="Refractive_index">1.5119999999999998</PROPERTY>
+      <PROPERTY name="Mol._refr._pow.">37.79</PROPERTY>
+      <PROPERTY name="Dielectric_constant">4.03</PROPERTY>
+      <PROPERTY name="Dipole_moment">1.2</PROPERTY>
+      <PROPERTY name="Melting_point">-50</PROPERTY>
+      <PROPERTY name="Boiling_point">175</PROPERTY>
+      <PROPERTY name="Viscosity">1.41198521</PROPERTY>
+      <PROPERTY name="lnP">2.70586835</PROPERTY>
+      <PROPERTY name="Vapour_pressure">1.56676181</PROPERTY>
+      <PROPERTY name="Henry's_constant">2170.926434</PROPERTY>
+      <PROPERTY name="lngamma">0.71864849</PROPERTY>
+      <PROPERTY name="HBA">0.0351</PROPERTY>
+      <PROPERTY name="neutral">16.424</PROPERTY>
+      <PROPERTY name="HBD">0.5562</PROPERTY>
+      <PROPERTY name="s1">0.0</PROPERTY>
+      <PROPERTY name="s2">3.33</PROPERTY>
+      <PROPERTY name="s3">11.26</PROPERTY>
+      <PROPERTY name="s4">2.41</PROPERTY>
+      <PROPERTY name="s5">0.02</PROPERTY>
+      <PROPERTY name="conv">87</PROPERTY>
+      <PROPERTY name="d.e.">59</PROPERTY>
+      <MF>C8H10O</MF>
+      <NAME>1-methoxy-4-methylbenzene</NAME>
+      <CAS>104-93-8</CAS>
+    </MOLECULE>
+  </MOLECULES>
+  <REACTIONS>
+    <REACTION ID="1">
+    </REACTION>
+  </REACTIONS>
+</UDM>
+    
