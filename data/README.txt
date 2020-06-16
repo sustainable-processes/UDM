@@ -7,5 +7,4 @@ The data folder contains the solvent descriptor data from the solvent selection 
 - 'solvents_results.xml': The UDM file created from the csv file above
 - 'all_SMILES_CAS.csv': contains just the SMILES and CAS numbers of all solvents. This avoids having to generate the 
    SMILES strings every time you want to work with the data
-- 'udm_6_0_0.xsd': The UDM Schema, available at https://www.pistoiaalliance.org/projects/udm/
 - 'predicted_best_solvent.xml': The UDM file containing SMILES string and CAS number for the predicted optimal solvent to test
