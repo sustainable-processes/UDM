@@ -1334,7 +1334,7 @@
       <xs:element ref="NOC" minOccurs="0"/>
       <xs:element ref="RNG" minOccurs="0"/>
       <!-- NOTE Added in v 5.0.0. -->
-      <xs:element ref="PROPERTY" minOccurs="0" />
+      <xs:element ref="PROPERTY" minOccurs="0" maxOccurs="unbounded" />
       <xs:element ref="CC_ID" minOccurs="0"/>
       <xs:element ref="MF" minOccurs="0"/>
       <xs:element ref="NAME" minOccurs="0"/>
